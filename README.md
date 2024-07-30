@@ -16,11 +16,6 @@ This project involves an analysis of UK road safety data to identify trends and 
 1. Download the `UK-Road-Safety.pbix` file.
 2. Open the file using Power BI Desktop.
 
-## Visualizations
-
-![Accident Overview](screenshots/accident_overview.png)
-![Geographical Analysis](screenshots/geographical_analysis.png)
-
 ## Insights
 
 - **Accident Trends**: Analysis of seasonal trends and peak accident times.
